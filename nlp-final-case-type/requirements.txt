@@ -1,0 +1,9 @@
+datasets<4.0.0
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+sentence-transformers
+torch
+transformers

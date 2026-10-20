@@ -1,0 +1,7 @@
+gradio>=4.0
+transformers>=4.30
+torch
+sentencepiece
+nltk
+scikit-learn
+numpy
